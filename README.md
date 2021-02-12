@@ -29,7 +29,7 @@ Please generate your own SMBIOS SN, UUID using MacBookPro14,2 and change your RO
 | Processor         | Intel Core i7 - 7600u                                                                                                                    |
 | Memory            | 1x 8 GB DDR4 2133 Mhz                                                                                                                    |
 | Storage           | SSD 840 EVO 250GB                                                                                                                        |
-| Video             | Integrated Intel HD 520 + NVIDIA 940MX                                                                                                   |
+| Video             | Integrated Intel HD 620 + NVIDIA 940MX                                                                                                   |
 | Wi-Fi + Bluetooth | ~~Qualcomm Atheros 9565~~ Replaced by Intel AX200                                                                                         |
 | Ethernet          | Realtek RTL8111                                                                                                                          |
 | Audio             | Realtek ALC255                                                                                                                           |
@@ -40,8 +40,6 @@ Please generate your own SMBIOS SN, UUID using MacBookPro14,2 and change your RO
 
 # What works
 ✅ Intel HD 620
-
-✅ VGA/HDMI (Audio + Video)
 
 ✅ All USB Type A ports
 
@@ -67,15 +65,17 @@ Please generate your own SMBIOS SN, UUID using MacBookPro14,2 and change your RO
 
 ✅ ️Sleep
 
-✅ ️Bluetooth 
+✅ Bluetooth 
 
-✅  IServices  (IMessage, FaceTime, ICloud)  (Make sure you set your own SMbios and generate your own Serial Number using GenSMBIOS)
+✅ IServices  (IMessage, FaceTime, ICloud)  (Make sure you set your own SMbios and generate your own Serial Number using GenSMBIOS)
 
 ⚠️ FN Keys (Volume Control, Disable TouchPad, Sleep works except for Brightness Control)
 
 ⚠️ Onboard Ethernet (Not Tested)
 
 ⚠️ SD Card (Not Tested)
+
+⚠️ VGA/HDMI (Audio + Video)
 
 ❌ Realtek SD card reader
 
