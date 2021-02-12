@@ -41,8 +41,6 @@ Please generate your own SMBIOS SN, UUID using MacBookPro14,2 and change your RO
 # What works
 ✅ Intel HD 620
 
-✅ VGA/HDMI (Audio + Video)
-
 ✅ All USB Type A ports
 
 ✅ USB type C port
@@ -67,15 +65,17 @@ Please generate your own SMBIOS SN, UUID using MacBookPro14,2 and change your RO
 
 ✅ ️Sleep
 
-✅ ️Bluetooth 
+✅ Bluetooth 
 
-✅  IServices  (IMessage, FaceTime, ICloud)  (Make sure you set your own SMbios and generate your own Serial Number using GenSMBIOS)
+✅ IServices  (IMessage, FaceTime, ICloud)  (Make sure you set your own SMbios and generate your own Serial Number using GenSMBIOS)
 
 ⚠️ FN Keys (Volume Control, Disable TouchPad, Sleep works except for Brightness Control)
 
 ⚠️ Onboard Ethernet (Not Tested)
 
 ⚠️ SD Card (Not Tested)
+
+⚠️ VGA/HDMI (Audio + Video)
 
 ❌ Realtek SD card reader
 
