@@ -29,7 +29,7 @@ Please generate your own SMBIOS SN, UUID using MacBookPro14,2 and change your RO
 | Processor         | Intel Core i7 - 7600u                                                                                                                    |
 | Memory            | 1x 8 GB DDR4 2133 Mhz                                                                                                                    |
 | Storage           | SSD 840 EVO 250GB                                                                                                                        |
-| Video             | Integrated Intel HD 520 + NVIDIA 940MX                                                                                                   |
+| Video             | Integrated Intel HD 620 + NVIDIA 940MX                                                                                                   |
 | Wi-Fi + Bluetooth | ~~Qualcomm Atheros 9565~~ Replaced by Intel AX200                                                                                         |
 | Ethernet          | Realtek RTL8111                                                                                                                          |
 | Audio             | Realtek ALC255                                                                                                                           |
