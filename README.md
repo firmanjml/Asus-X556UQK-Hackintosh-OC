@@ -69,13 +69,13 @@ Please generate your own SMBIOS SN, UUID using MacBookPro14,1 and change your RO
 
 ✅ IServices  (IMessage, FaceTime, ICloud)  (Make sure you set your own SMbios and generate your own Serial Number using GenSMBIOS)
 
-⚠️ FN Keys (Volume Control, Disable TouchPad, Sleep works except for Brightness Control)
+✅ Onboard Ethernet
 
-⚠️ Onboard Ethernet (Not Tested)
+⚠️ FN Keys (Volume Control, Disable TouchPad, Sleep works except for Brightness Control)
 
 ⚠️ SD Card (Not Tested)
 
-⚠️ VGA/HDMI (Audio + Video)
+❌ VGA/HDMI (Audio + Video)
 
 ❌ Realtek SD card reader
 
