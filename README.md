@@ -19,7 +19,7 @@ You can only dump SSDT on Windows or Linux
 
 Please downgrade your bios if you're at version 3.1.5. This will cause graphic issue.
 
-Please generate your own SMBIOS SN, UUID using MacBookPro14,2 and change your ROM based on your Ethernet Mac Address.
+Please generate your own SMBIOS SN, UUID using MacBookPro14,1 and change your ROM based on your Ethernet Mac Address.
 
 ### Technical Specifications
 ---
