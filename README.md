@@ -1,4 +1,4 @@
-# Asus F556U (X556UQK) - Big Sur Hackintosh Open Core 0.71
+# Asus F556U (X556UQK) - Big Sur 11.4 Hackintosh Open Core 0.71
 ![](Screenshot/BigSur.png)
 
 Release Version
