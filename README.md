@@ -75,7 +75,7 @@ In case if you want to use Catalina 10.5 instead of Big Sur, change AirportItlwm
 
 ✅ Onboard Ethernet
 
-⚠️ FN Keys (Brightness Control, Volume Control, Sleep works except for Disable TouchPad, Disable Screen etc)
+⚠️ FN Keys (Brightness Control, Volume Control, Sleep works except for Disable TouchPad, Disable Screen etc) Make sure you have BrightnessKeys kext
 
 ⚠️ Realtek SD card reader
 
@@ -84,3 +84,7 @@ In case if you want to use Catalina 10.5 instead of Big Sur, change AirportItlwm
 ❌ Hardware DRM not supported on Big Sur, but works on Catalina 10.5 based on WhateverGreen chart
 
 ❌ NVIDIA GeForce 940MX (Optimus - impossible to get working at the moment)
+
+# Thanks
+
+Some part of the configuration and research such as kext and hardware spec are base on [IlhamSevensky](https://github.com/IlhamSevensky/ASUS-X556UQ-HACKINTOSH-OPENCORE) repo.
