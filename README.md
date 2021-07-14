@@ -1,4 +1,4 @@
-# Asus F556U (X556UQK) - Big Sur Hackintosh Open Core 0.66
+# Asus F556U (X556UQK) - Big Sur Hackintosh Open Core 0.71
 ![](Screenshot/BigSur.png)
 
 Release Version
@@ -13,13 +13,13 @@ To Debug, please enable verbose mode and follow all the Keys below
 - boot-args (-v keepsyms=1 alcid=13 -wegnoegpu)
 
 ### Note
-Please use SSDTTime to patch your own SSDT, do not use mine as not all the configuration work the same on your device.
+**Please use SSDTTime to patch your own SSDT, do not use mine as not all the configuration work the same on your device.**
 
-You can only dump SSDT on Windows or Linux
+**You can only dump SSDT on Windows or Linux**
 
 Please downgrade your bios if you're at version 3.1.5. This will cause graphic issue.
 
-Please generate your own SMBIOS SN, UUID using MacBookPro14,1 and change your ROM based on your Ethernet Mac Address.
+**Please generate your own SMBIOS SN, UUID using MacBookPro14,1 and change your ROM based on your Ethernet Mac Address.**
 
 ### Technical Specifications
 ---
