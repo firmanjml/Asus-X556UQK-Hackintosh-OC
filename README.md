@@ -21,6 +21,10 @@ Please downgrade your bios if you're at version 3.1.5. This will cause graphic i
 
 ***Please generate your own SMBIOS SN, UUID using MacBookPro14,1 and change your ROM based on your Ethernet Mac Address.***
 
+### Catalina Note
+
+In case if you want to use Catalina 10.5 instead of Big Sur, change AirportItlwm.kext kest to Catalina version and enable xhciportlimit on config.plist
+
 ### Technical Specifications
 ---
 
@@ -76,5 +80,7 @@ Please downgrade your bios if you're at version 3.1.5. This will cause graphic i
 ⚠️ Realtek SD card reader
 
 ⚠️ VGA/HDMI (Audio + Video) Not tested (Anyone who has VGA or HDMI tested, please update me)
+
+❌ Hardware DRM not supported on Big Sur, but works on Catalina 10.5 based on WhateverGreen chart
 
 ❌ NVIDIA GeForce 940MX (Optimus - impossible to get working at the moment)
