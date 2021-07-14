@@ -71,12 +71,10 @@ Please downgrade your bios if you're at version 3.1.5. This will cause graphic i
 
 ✅ Onboard Ethernet
 
-⚠️ FN Keys (Volume Control, Disable TouchPad, Sleep works except for Brightness Control)
+⚠️ FN Keys (Brightness Control, Volume Control, Sleep works except for Disable TouchPad, Disable Screen etc)
 
-⚠️ SD Card (Not Tested)
+⚠️ Realtek SD card reader
 
-❌ VGA/HDMI (Audio + Video)
-
-❌ Realtek SD card reader
+⚠️ VGA/HDMI (Audio + Video) Not tested (Anyone who has VGA or HDMI tested, please update me)
 
 ❌ NVIDIA GeForce 940MX (Optimus - impossible to get working at the moment)
